@@ -1,0 +1,71 @@
+*{
+  margin: 0;
+  font-family: arial
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h2{
+  margin-top: 20px;
+}
+
+.cornice{
+  margin: auto;
+  width: 1000px;
+  height: 800px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.contenitore{
+  margin: auto;
+  width: 900px;
+}
+
+.logo{
+  width: 300px;
+}
+
+.Clogo{
+  text-align: center;
+  padding-top: 70px;
+}
+
+.titolo{
+  text-align: center;
+  color: rgb(8, 220, 4);
+}
+
+.Cbaton{
+  background-color: rgb(8, 220, 4);
+  text-align: center;
+  padding: 10px;
+}
+
+main{
+  color: White;
+}
+
+.green{
+  background-color: green;
+  width: 40%;
+  height:25px;
+  border-radius: 4px;
+}
+
+.Orange{
+  background-color: orange;
+  width: 30%;
+  height:25px;
+  border-radius: 4px;
+}
+
+.red{
+  background-color: red;
+  width: 15%;
+  height:25px;
+  border-radius: 4px;
+}
